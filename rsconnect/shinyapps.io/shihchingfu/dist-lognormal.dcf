@@ -1,0 +1,14 @@
+name: dist-lognormal
+title: dist-lognormal
+username:
+account: shihchingfu
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 7745160
+bundleId: 6561203
+url: https://shihchingfu.shinyapps.io/dist-lognormal/
+when: 1669615055.68885
+lastSyncTime: 1669615055.68886
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .Rprofile|.venv
